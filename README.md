@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="200" height="200" src="./f-logo.jpeg">
+</p>
+
 # .github
 
 Repository with the default community health file for the organization
