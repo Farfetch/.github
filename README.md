@@ -1,4 +1,8 @@
-# FARFETCH .github
+# .github
+
+<p align="center">
+  <img width="200" height="200" src="./images/fuse-logo.png">
+</p>
 
 Repository with the default community health file for the organization
 More documentation about [creating a default community health file for your organization](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization).
