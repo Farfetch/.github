@@ -1,7 +1,7 @@
 # .github
 
 <p align="center">
-  <img width="200" height="200" src="./images/fuse-logo.png">
+  <img width="200" height="200" src="./images/fuse-logo-128.png">
 </p>
 
 Repository with the default community health file for the organization
