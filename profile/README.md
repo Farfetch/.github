@@ -13,5 +13,11 @@ We are the leading global technology platform for the luxury fashion industry.
 
 We love ❤️ open source, and here you will find the home of projects made by brilliant Farfetchers.
 
-### Get in touch!
+### Being a community member
+
+We are building a welcoming and inclusive community. Our open source projects are governed by our [code of conduct](https://github.com/Farfetch/.github/blob/master/.github/CODE_OF_CONDUCT.md).
+
+
+### Getting in touch
+
 Interested in a career at FARFETCH? Check out our opportunities on [FARFETCH Careers](https://farfetchgroupcareers.com/) and learn more about life at [@FARFETCH People](https://twitter.com/farfetchpeople).
